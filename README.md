@@ -1,3 +1,7 @@
+[![make.fun - btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/dexalot4-wq/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/dexalot4-wq/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+
 # btc-race-bot
 
 A cbBTC 1-minute trading bot for the make.fun "Race a BTC trading bot live
